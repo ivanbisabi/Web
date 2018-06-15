@@ -1,0 +1,30 @@
+body {
+    color: #333333;
+    font-size: 100%;
+    font-family: "Styrene B Web",-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #F0F0F0;
+    background-repeat: no-repeat;
+}
+
+
+
+.flex-column {
+    max-width: 260px;
+}
+
+.container galleria {
+    padding-top: 20px;
+}
+
+
+
+img {
+    margin: 5px;
+}
+
+.scale {
+    transform: scaleY(1.05);
+    padding-top: 5px; 
+}
